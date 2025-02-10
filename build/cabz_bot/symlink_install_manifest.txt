@@ -1,0 +1,34 @@
+/home/cabz/cabz_ws/src/cabz_bot/install/cabz_bot/share/cabz_bot/config/drive_bot.rviz
+/home/cabz/cabz_ws/src/cabz_bot/install/cabz_bot/share/cabz_bot/config/empty.yaml
+/home/cabz/cabz_ws/src/cabz_bot/install/cabz_bot/share/cabz_bot/config/gazebo_params.yaml
+/home/cabz/cabz_ws/src/cabz_bot/install/cabz_bot/share/cabz_bot/config/my_controllers.yaml
+/home/cabz/cabz_ws/src/cabz_bot/install/cabz_bot/share/cabz_bot/config/view_bot.rviz
+/home/cabz/cabz_ws/src/cabz_bot/install/cabz_bot/share/cabz_bot/description/camera.xacro
+/home/cabz/cabz_ws/src/cabz_bot/install/cabz_bot/share/cabz_bot/description/gazebo_control.xacro
+/home/cabz/cabz_ws/src/cabz_bot/install/cabz_bot/share/cabz_bot/description/inertial_macros.xacro
+/home/cabz/cabz_ws/src/cabz_bot/install/cabz_bot/share/cabz_bot/description/lidar.xacro
+/home/cabz/cabz_ws/src/cabz_bot/install/cabz_bot/share/cabz_bot/description/robot.urdf.xacro
+/home/cabz/cabz_ws/src/cabz_bot/install/cabz_bot/share/cabz_bot/description/robot_core.xacro
+/home/cabz/cabz_ws/src/cabz_bot/install/cabz_bot/share/cabz_bot/description/ros2_control.xacro
+/home/cabz/cabz_ws/src/cabz_bot/install/cabz_bot/share/cabz_bot/launch/launch_sim.launch.py
+/home/cabz/cabz_ws/src/cabz_bot/install/cabz_bot/share/cabz_bot/launch/rsp.launch.py
+/home/cabz/cabz_ws/src/cabz_bot/install/cabz_bot/share/cabz_bot/worlds/New Folder/test.world/model.config
+/home/cabz/cabz_ws/src/cabz_bot/install/cabz_bot/share/cabz_bot/worlds/New Folder/test.world/model.sdf
+/home/cabz/cabz_ws/src/cabz_bot/install/cabz_bot/share/cabz_bot/worlds/empty.world
+/home/cabz/cabz_ws/src/cabz_bot/install/cabz_bot/share/cabz_bot/worlds/small_house.world
+/home/cabz/cabz_ws/src/cabz_bot/install/cabz_bot/share/cabz_bot/worlds/test.world
+/home/cabz/cabz_ws/src/cabz_bot/install/cabz_bot/share/ament_index/resource_index/package_run_dependencies/cabz_bot
+/home/cabz/cabz_ws/src/cabz_bot/install/cabz_bot/share/ament_index/resource_index/parent_prefix_path/cabz_bot
+/home/cabz/cabz_ws/src/cabz_bot/install/cabz_bot/share/cabz_bot/environment/ament_prefix_path.sh
+/home/cabz/cabz_ws/src/cabz_bot/install/cabz_bot/share/cabz_bot/environment/ament_prefix_path.dsv
+/home/cabz/cabz_ws/src/cabz_bot/install/cabz_bot/share/cabz_bot/environment/path.sh
+/home/cabz/cabz_ws/src/cabz_bot/install/cabz_bot/share/cabz_bot/environment/path.dsv
+/home/cabz/cabz_ws/src/cabz_bot/install/cabz_bot/share/cabz_bot/local_setup.bash
+/home/cabz/cabz_ws/src/cabz_bot/install/cabz_bot/share/cabz_bot/local_setup.sh
+/home/cabz/cabz_ws/src/cabz_bot/install/cabz_bot/share/cabz_bot/local_setup.zsh
+/home/cabz/cabz_ws/src/cabz_bot/install/cabz_bot/share/cabz_bot/local_setup.dsv
+/home/cabz/cabz_ws/src/cabz_bot/install/cabz_bot/share/cabz_bot/package.dsv
+/home/cabz/cabz_ws/src/cabz_bot/install/cabz_bot/share/ament_index/resource_index/packages/cabz_bot
+/home/cabz/cabz_ws/src/cabz_bot/install/cabz_bot/share/cabz_bot/cmake/cabz_botConfig.cmake
+/home/cabz/cabz_ws/src/cabz_bot/install/cabz_bot/share/cabz_bot/cmake/cabz_botConfig-version.cmake
+/home/cabz/cabz_ws/src/cabz_bot/install/cabz_bot/share/cabz_bot/package.xml

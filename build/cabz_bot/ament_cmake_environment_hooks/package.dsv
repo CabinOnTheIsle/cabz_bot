@@ -1,0 +1,4 @@
+source;share/cabz_bot/local_setup.bash
+source;share/cabz_bot/local_setup.dsv
+source;share/cabz_bot/local_setup.sh
+source;share/cabz_bot/local_setup.zsh

@@ -1,0 +1,8 @@
+source;share/cabz_bot/hook/cmake_prefix_path.ps1
+source;share/cabz_bot/hook/cmake_prefix_path.dsv
+source;share/cabz_bot/hook/cmake_prefix_path.sh
+source;share/cabz_bot/local_setup.bash
+source;share/cabz_bot/local_setup.dsv
+source;share/cabz_bot/local_setup.ps1
+source;share/cabz_bot/local_setup.sh
+source;share/cabz_bot/local_setup.zsh
